@@ -2,9 +2,9 @@
   section.contain.grd-row
     .grd-row-col-3-6(v-html='left')
     .grd-row-col-3-6.txt--center
-      img(src='static/supportix.jpg')
+      img(src='static/supportix.png')
       p
-        em The most valuable commodity I know of is information.
+        em Increase your Portfilio | Supportix Bot
 </template>
 
 
@@ -16,8 +16,9 @@ import marked from '../../tools/marked';
 
 const left = marked(`
 
-## Supportix
+## Supportix Bot.
 
+Automated Trading and Arbitrage Software.
 Supportix is a Bitcoin trading bot and backtesting platform that
 connects to popular Bitcoin exchanges. 
 

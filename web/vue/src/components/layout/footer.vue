@@ -3,7 +3,7 @@
     .contain
       p
         em Use Supportix at your own risk.
-      p Using Supportix v{{ version.gekko }} and Supportix UI v{{ version.ui }}.
+      p © All Right Reserved 2018 Supportix.net
 </template>
 
 <script>

@@ -4,7 +4,7 @@
       h1 Unknown Supportix instance
       p Supportix doesn't know what this is...
     div(v-if='data')
-      h2.contain Gekko {{ type }}
+      h2.contain Supportix {{ type }}
       div(v-if='isArchived', class='contain brdr--mid-gray p1 bg--orange')
         | This is an archived Supportix, it is currently not running anymore.
       div(v-if='data.errorMessage', class='contain brdr--mid-gray p1 bg--orange')
@@ -84,7 +84,7 @@
                 .grd-row-col-3-6 Alpha
                 .grd-row-col-3-6 {{ round(report.alpha) }} {{ config.watch.currency }}
         p(v-if='isStratrunner && !watcher && !isArchived') WARNING: stale Supportix, not attached to a watcher, please report 
-          a(href='https://github.com/Roozznet/suportix') here
+          a(href='https://github.com/RoozzNet/Supportix/issues') here
           | .
         p(v-if='!isArchived')
           a(v-on:click='stopGekko', class='w100--s my1 btn--red') Stop Supportix

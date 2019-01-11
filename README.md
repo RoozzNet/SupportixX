@@ -1,29 +1,27 @@
-## Supportix Bot
-Automated Trading and Arbitrage Software
+# Gekko [![npm](https://img.shields.io/npm/dm/gekko.svg)]() [![Build Status](https://travis-ci.org/askmike/gekko.png)](https://travis-ci.org/askmike/gekko) [![Build status](https://ci.appveyor.com/api/projects/status/github/askmike/gekko?branch=stable&svg=true)](https://ci.appveyor.com/project/askmike/gekko)
 
-
-![Supportix](https://supportix.net/img/885.png)
+![Gordon Gekko](http://mikevanrossum.nl/static/gekko.jpg)
 
 *The most valuable commodity I know of is information.*
 
--Supportix
+-Gordon Gekko
 
-Supportix is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on [Node.js](http://nodejs.org).
+Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on [Node.js](http://nodejs.org).
 
-*Use Supportix at your own risk.*
+*Use Gekko at your own risk.*
 
 ## Documentation
 
-See [the documentation website](https://forum.Supportix.net).
+See [the documentation website](https://gekko.wizb.it/docs/introduction/about_gekko.html).
 
 ## Installation & Usage
 
-See [the installing Supportix doc](https://Supportix.net).
+See [the installing Gekko doc](https://gekko.wizb.it/docs/installation/installing_gekko.html).
 
 ## Community & Support
 
-Supportix has [a forum](https://forum.Supportix.net/) that is the place for discussions on using Supportix, automated trading and exchanges. In case you rather want to chat in realtime about Supportix feel free to join the [Supportix Support Telegram Group](https://telegram.com).
+Gekko has [a forum](https://forum.gekko.wizb.it/) that is the place for discussions on using Gekko, automated trading and exchanges. In case you rather want to chat in realtime about Gekko feel free to join the [Gekko Support Discord](https://discord.gg/26wMygt).
 
 ## Final
 
-
+If Gekko helped you in any way, you can always leave me a tip at (BTC) 13r1jyivitShUiv9FJvjLH7Nh1ZZptumwW

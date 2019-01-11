@@ -49,15 +49,11 @@ input {
   line-height: 1.3em;
 }
 
-.hr {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  height: 10px;
-  background-color: rgba(250,250,250,.99);
-}
+
 
 .contain {
   width: 900px;
+  max-width: 100%;
   margin-left: auto;
   margin-right: auto;
 }

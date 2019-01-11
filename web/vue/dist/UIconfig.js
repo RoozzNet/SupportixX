@@ -13,7 +13,7 @@ const CONFIG = {
   },
   ui: {
     ssl: false,
-    host: '46.101.95.58',
+    host: 'tradedemo.supportix.net',
     port: 3000,
     path: '/'
   },

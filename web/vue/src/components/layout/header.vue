@@ -5,15 +5,16 @@
     #top
     header.bg--off-white.grd
       .contain.grd-row
-        h3.py1.px2.col-2 <img src="https://knowledge.supportix.net/supportixBlackLogo.png" alt="Italian Trulli">
+        h3.py1.px2.col-2 <img src="https://supportix.net/img/55.png" alt="Supportix">
     nav.bg--light-gray
       .menu.contain
         router-link(to='/home').py1 Home
-        router-link(to='/live-gekkos').py1 Live Trading
-        router-link(to='/backtest').py1 Backtest
-        router-link(to='/data').py1 Local data
-        router-link(to='/config').py1 Config
-        a(href='https://knowledge.supportix.net', target='_blank').py1 Documentation
+        router-link(to='/live-gekkos').py1 Trading
+        router-link(to='/arbitrage').py1 Arbitrage
+        router-link(to='/backtest').py1 BackTest
+        router-link(to='/data').py1 Data
+        router-link(to='/config').py1 API
+        a(href='https://knowledge.supportix.net', target='_blank').py1 Knowledge
 
 </template>
 

@@ -7,14 +7,7 @@ const _ = require('lodash');
 const bodyParser = require('koa-bodyparser');
 
 const opn = require('opn');
-const server = require('http').createServer(function (req, res) {
-    var userpass = new Buffer((req.headers.authorization || '').split(' ')[1] || '', 'base64').toString();
-    if (userpass !== 'Gekko:admin') {
-        res.writeHead(401, { 'WWW-Authenticate': 'Basic realm="nope"' });
-        res.end('HTTP Error 401 Unauthorized: Access is denied');
-        return;
-    }
-});
+const server = require('http').createServer();
 const router = require('koa-router')();
 const ws = require('ws');
 const app = koa();
