@@ -1,27 +1,27 @@
-# Gekko [![npm](https://img.shields.io/npm/dm/gekko.svg)]() [![Build Status](https://travis-ci.org/askmike/gekko.png)](https://travis-ci.org/askmike/gekko) [![Build status](https://ci.appveyor.com/api/projects/status/github/askmike/gekko?branch=stable&svg=true)](https://ci.appveyor.com/project/askmike/gekko)
+## Supportix.net 
+# Automated Trading and Arbitrage Bot
 
-![Gordon Gekko](http://mikevanrossum.nl/static/gekko.jpg)
+![Supportix](https://supportix.net/img/885.png)
 
-*The most valuable commodity I know of is information.*
+## Supportix Bot
 
--Gordon Gekko
+Supportix is a Bitcoin trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on [Node.js](http://nodejs.org).
 
-Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on [Node.js](http://nodejs.org).
+Supportix is Automated Arbitrage Bot and work with +15 API.
 
-*Use Gekko at your own risk.*
 
-## Documentation
+## Knowledge Base
 
-See [the documentation website](https://gekko.wizb.it/docs/introduction/about_gekko.html).
-
-## Installation & Usage
-
-See [the installing Gekko doc](https://gekko.wizb.it/docs/installation/installing_gekko.html).
+See [Knowledge Base](https://knowledge.supportix.net).
 
 ## Community & Support
 
-Gekko has [a forum](https://forum.gekko.wizb.it/) that is the place for discussions on using Gekko, automated trading and exchanges. In case you rather want to chat in realtime about Gekko feel free to join the [Gekko Support Discord](https://discord.gg/26wMygt).
+Supportix has [a forum](https://forum.supportix.net/) that is the place for discussions on using Supportix, automated trading and exchanges. In case you rather want to chat in realtime about Supportix feel free to join the [ our Community ]
+(https://forum.supportix.net).
 
 ## Final
 
-If Gekko helped you in any way, you can always leave me a tip at (BTC) 13r1jyivitShUiv9FJvjLH7Nh1ZZptumwW
+Increase your Portfilio with Supportix Bot
+
+*Use Supportix at your own risk.*
+
