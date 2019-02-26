@@ -3,7 +3,7 @@
     .contain
       p
         em Use Supportix at your own risk.
-      p © All Right Reserved 2018 Supportix.net
+      p © All Right Reserved 2019 Supportix.net
 </template>
 
 <script>
