@@ -16,8 +16,8 @@ See [Knowledge Base](https://knowledge.supportix.net).
 
 ## Community & Support
 
-Supportix has [a forum](https://forum.supportix.net/) that is the place for discussions on using Supportix, automated trading and exchanges. In case you rather want to chat in realtime about Supportix feel free to join the [ our Community ]
-(https://forum.supportix.net).
+Supportix has [a forum](https://supportix.net/) that is the place for discussions on using Supportix, automated trading and exchanges. In case you rather want to chat in realtime about Supportix feel free to join the [ our Community ]
+(https://supportix.net).
 
 ## Final
 
